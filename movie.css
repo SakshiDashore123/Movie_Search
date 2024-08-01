@@ -260,8 +260,7 @@ box-shadow: inset 0 0 6px rgb(33, 33, 33);
         margin-left: 0;
     }
     .movie-poster img{
-        height: 300px;
-        margin-top: 50px;
-       
+        height: 400px;
+        
     }
 }
